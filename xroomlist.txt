@@ -1,0 +1,7 @@
+# Add 'fixed' Rooms here
+# The name of each room must be less than 10 characters
+#
+# Put each room on it's own line
+#
+
+SIGNAL6
